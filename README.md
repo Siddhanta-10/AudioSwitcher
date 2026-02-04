@@ -1,12 +1,12 @@
 # Audio Switcher 🎧
 
-![License](https://img.shields.io/github/license/Siddhanta/AudioSwitcher?style=flat-square)
-![Release](https://img.shields.io/github/v/release/Siddhanta/AudioSwitcher?style=flat-square)
+![License](https://img.shields.io/github/license/Siddhanta-10/AudioSwitcher?style=flat-square)
+![Release](https://img.shields.io/github/v/release/Siddhanta-10/AudioSwitcher?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 
-A lightweight, high-performance Windows system tray utility written in C++ (Win32 API). It allows you to switch between your favorite audio devices instantly using global hotkeys, without interrupting your game or workflow.
+A lightweight, high-performance Windows system tray utility. It allows you to switch between your favorite audio devices instantly using global hotkeys, without interrupting your game or workflow.
 
-![Demo](path/to/your/demo.gif)
+<!--![Demo](path/to/your/demo.gif)-->
 ## ✨ Features
 
 * **⚡ Priority Switcher:** Instantly toggle between your two most-used devices (e.g., Headphones vs. Speakers) using a single hotkey.
@@ -19,7 +19,7 @@ A lightweight, high-performance Windows system tray utility written in C++ (Win3
 
 ## 📥 Installation
 
-1.  Go to the [Releases Page](https://github.com/Siddhanta/AudioSwitcher/releases/latest).
+1.  Go to the [Releases Page](https://github.com/Siddhanta-10/AudioSwitcher/releases/latest).
 2.  Download the latest `AudioSwitcher.exe`.
 3.  Run the executable. The app will appear in your System Tray (near the clock).
 
@@ -30,7 +30,7 @@ A lightweight, high-performance Windows system tray utility written in C++ (Win3
 ### 1. Initial Setup
 Right-click the **Audio Switcher icon** in the system tray and select **Settings**.
 
-![Settings UI](path/to/settings_screenshot.png)
+<!--![Settings UI](path/to/settings_screenshot.png)-->
 
 ### 2. Configuring Priority Switcher (Toggle 1)
 Use this if you primarily swap between two devices (e.g., Gaming Headset and Monitors).
@@ -47,46 +47,15 @@ Use this if you want direct access to specific hardware.
 3.  Click the box next to it and press your desired hotkey (e.g., `Ctrl + NumPad1`).
 4.  Click **Save & Apply**.
 
-## 🔧 Building from Source
-
-If you want to modify the code or build it yourself, follow these steps.
-
-### Prerequisites
-* **Visual Studio 2022** (or 2019) with "Desktop development with C++".
-* **Windows SDK** (included with VS).
-
-### Build Steps
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/Siddhanta/AudioSwitcher.git](https://github.com/Siddhanta/AudioSwitcher.git)
-    ```
-2.  Open the solution file (`.sln`) in Visual Studio.
-3.  **Important Configuration:**
-    * Right-click the Project > **Properties**.
-    * **C/C++ > Language > C++ Language Standard**: Set to **ISO C++17 Standard (/std:c++17)**.
-    * **Linker > Input > Additional Dependencies**: Add `wininet.lib;comctl32.lib`.
-    * **Linker > System > SubSystem**: Ensure it is set to **Windows (/SUBSYSTEM:WINDOWS)**.
-4.  Select **Release** and **x64** from the top toolbar.
-5.  Build the solution (`Ctrl + Shift + B`).
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for new features or bug fixes:
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes.
-4.  Push to the branch.
-5.  Open a Pull Request.
-
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPLv3 License. See `LICENSE` for more information.
 
 ## 👤 Author
 
 **Siddhanta**
 
-* GitHub: [@Siddhanta](https://github.com/Siddhanta)
+* GitHub: [@Siddhanta](https://github.com/Siddhanta-10)
 
 ---
 *Copyright © 2026 Siddhanta. All rights reserved.*
