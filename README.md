@@ -1,4 +1,4 @@
-# # <img src="assets/AudioSwitcherLogo.png" width="40" height="40" align="top"> Audio Switcher
+# <img src="assets/AudioSwitcherLogo.png" width="40" height="40" align="top"> Audio Switcher
 
 ![License](https://img.shields.io/github/license/Siddhanta-10/AudioSwitcher?style=flat-square)
 ![Release](https://img.shields.io/github/v/release/Siddhanta-10/AudioSwitcher?style=flat-square)
