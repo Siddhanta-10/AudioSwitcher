@@ -1,8 +1,8 @@
 # <img src="assets/AudioSwitcherLogo.png" width="40" height="40" align="top"> Audio Switcher
 
-![License](https://img.shields.io/github/license/Siddhanta-10/AudioSwitcher?style=flat-square)
-![Release](https://img.shields.io/github/v/release/Siddhanta-10/AudioSwitcher?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
+[![License](https://img.shields.io/github/license/Siddhanta-10/AudioSwitcher?style=flat-square)](https://github.com/Siddhanta-10/AudioSwitcher/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/Siddhanta-10/AudioSwitcher?style=flat-square)](https://github.com/Siddhanta-10/AudioSwitcher/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)](https://github.com/Siddhanta-10/AudioSwitcher/releases)
 
 A lightweight, high-performance Windows system tray utility. It allows you to switch between your favorite audio devices instantly using global hotkeys, without interrupting your game or workflow.
 
